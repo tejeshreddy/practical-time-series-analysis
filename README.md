@@ -1,4 +1,8 @@
 # Practical Time Series Analysis
+
+[![image](https://img.shields.io/pypi/pyversions/notebook?style=flat-square)](https://python.org/pypi/pipenv)
+[![image](https://img.shields.io/pypi/l/pipenv.svg?style=flat-square)](https://python.org/pypi/pipenv)
+
 This repo is based off the book [Practical Time Series Analysis](https://www.oreilly.com/library/view/practical-time-series/9781492041641/). Discssing topics related to time series analysis using statistical and machine learning techniques.
 
 ## How to Use this Repo
