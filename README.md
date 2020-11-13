@@ -10,5 +10,5 @@ This repo is based off the book on [Practical Time Series Analysis](https://www.
 
 | Chapter No | Title |
 | :-: | :-: |
-| [Chapter 1](./chapter-1) | Time Series: An Overview and a Quick History |
-
+| Chapter 1 | Time Series: An Overview and a Quick History |
+| [Chapter 2](notebooks/README.md#chapter-2) | Finding and Wrangling Time Series Data |
